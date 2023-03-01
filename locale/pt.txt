@@ -1,0 +1,19 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_97649231_9CB7_D574_41DC_D270F64CA86B.label = Capela
+panorama_97634166_9CB7_F71C_41A8_6A69025ECACC.label = LEVITY
+panorama_9764C3DA_9CB7_5B34_41CC_779777CEB87A.label = Logística
+panorama_96129B73_9CB7_6BF5_41DA_42EC9B4373F5.label = POTY Visão Geral
+panorama_97614093_9CB7_B534_41C1_B785C9AE657A.label = Portaria Principal
+panorama_976362FE_9CB7_BAEF_41DD_425803629221.label = Recepção
+panorama_9764E0C8_9CB7_D514_41AF_EB98FC9C3434.label = TRIESTE
+
+## Tour
+
+### Description
+
+### Title
+tour.name = POTY 3D
